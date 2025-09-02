@@ -1,11 +1,17 @@
 ---
-title: "a-charnobay.github.io"
+image: images/aghata_cropped.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: Linkedin
+      href: https://www.linkedin.com/in/aghata-charnobay
+    - text: GitHub
+      href: https://github.com/a-charnobay
+    - text: Email
+      href: mailto:aghatacharnobay@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi there! I'm Aghata, a biostatistician with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights.

@@ -2,15 +2,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "a-charnobay.github.io",
+    "title": "Aghata Charnobay",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I’m Aghata, a biostatistician with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights."
   }
 ]

@@ -1,1 +1,18 @@
 /* css styles */
+
+/* Change the website header background */
+.navbar {
+  background-color: #064420 !important; /* dark green */
+}
+
+/* Optional: change text color inside the header */
+.navbar a,
+.navbar-brand {
+  color: white !important;
+}
+
+/* Optional: change hover effect for links */
+.navbar a:hover {
+  color: #cce5cc !important;
+}
+
