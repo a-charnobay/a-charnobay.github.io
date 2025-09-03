@@ -1,0 +1,8 @@
+---
+title: "How to practice your data visualization skills"
+author: "Aghata Charnobay"
+date: "September 03, 2025"
+categories: [Data visualization, DataFam iniciatives]
+format: html
+---
+
