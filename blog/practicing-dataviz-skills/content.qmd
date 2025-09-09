@@ -1,8 +1,9 @@
 ---
 title: "How to practice your data visualization skills"
+description: "Want to work on your data viz skills? Let’s explore some of the data community challenges that make learning hands-on and fun"
 author: "Aghata Charnobay"
 date: "September 03, 2025"
-categories: [Data visualization, DataFam iniciatives]
+categories: [Data visualization, Community]
 image: preview_image.png
-format: html
+draft: true
 ---
