@@ -18,6 +18,7 @@ about:
       text: Email
       href: mailto:aghatacharnobay@gmail.com
       target: _blank
+comments: false
 ---
 
 Hi there! I'm Aghata, a biostatistician with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights.

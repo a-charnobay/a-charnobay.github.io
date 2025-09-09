@@ -13,4 +13,5 @@ listing:
     - image
     - description
 page-layout: full
+comments: false
 ---
