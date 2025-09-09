@@ -5,5 +5,4 @@ author: "Aghata Charnobay"
 date: "September 03, 2025"
 categories: [Data visualization, Community]
 image: preview_image.png
-draft: true
 ---
