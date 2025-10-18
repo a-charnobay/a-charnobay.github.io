@@ -10,6 +10,9 @@ website:
         text: About
       - href: blog.qmd
         text: Blog
+  page-footer:
+    left:  © 2025 Aghata Charnobay
+    right: Website created with [Quarto](https://quarto.org/){target=_blank} and [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}
 
 format:
   html:
