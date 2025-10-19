@@ -9,9 +9,17 @@ listing:
   categories: true
   fields: 
     - title
+    - description
     - date
     - image
-    - description
+    - reading-time
+  page-size: 5
+  
+    
 page-layout: full
 comments: false
 ---
+
+Welcome to my blog! This is where I share what I’m learning, what I’m working on, and a bit of my journey through the data world. I hope you find something helpful and learn with me along the way!
+
+------------------------------------------------------------------------
