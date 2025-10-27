@@ -5,8 +5,31 @@ author: "Aghata Charnobay"
 date: "October 20, 2025"
 categories: [Data visualization, Community]
 image: preview_image.png
+draft: true
 ---
 
+Hi there! Welcome to my very *first blog post* — I’m happy you’re here!
 
+This blog was created as a space to write and share thoughts **about data** — what I’m learning and working on, tutorials, tips, and curiosities. If you’re reading this, it means my attempt to help people on their learning journey has been at least a little successful (and you might even be the very first one!).
 
+Well… since this is my debut as a blogger, I think it’s fair to tell you a bit about how I got here. Not long ago, I was in academia and had just completed a PhD in Soil Science — which, among many things, meant I was surrounded by research data every single day. It was in that environment that I first learned to program using R.
 
+FALAR UM POUCO DE MIM.. DE COMO EU CONHECI E USEI O R.. E DE COMO INFELIZMENTE EU DEMOREI PRA DESCOBRIR A FORCA DA COMUNIDADE R E AS COISAS INCRIVEIS QUE PODEMOS FAZER COM O SOFTWARE (como esse blog por exemplo).
+
+falar do tidytuesday de como eu tenho melhorado minhas habilidades de viz com ele (foto do primeiro e do ultimo viz?)
+
+This brings us to the topic of today's blog. I gathered here some of the greatest initiatives
+
+## TidyTuesday
+
+## 30DayChartChallenge
+
+## 30DayMapChallenge
+
+## MakeOverMonday
+
+## sportsvizsunday
+
+## gamesnightviz
+
+my link:<https://a-charnobay.github.io/blog.html>

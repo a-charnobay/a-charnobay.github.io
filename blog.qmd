@@ -14,9 +14,6 @@ listing:
     - image
     - reading-time
   page-size: 5
-  
-    
-page-layout: full
 comments: false
 ---
 
