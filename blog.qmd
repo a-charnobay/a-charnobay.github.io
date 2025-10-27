@@ -17,6 +17,10 @@ listing:
 comments: false
 ---
 
-Welcome to my blog! This is where I share what I’m learning, what I’m working on, and a bit of my journey through the data world. I hope you find something helpful and learn with me along the way!
+Welcome to my blog! I am very happy you are here!
+
+This is a space to talk about data - what I’m learning, what I’m working on, and all the cool tips, tutorials, and curiosities I come across. It's also a way to document my learning journey, practice writing skills, and share what I find with other learners.
+
+I hope you find something helpful here 💡.
 
 ------------------------------------------------------------------------
