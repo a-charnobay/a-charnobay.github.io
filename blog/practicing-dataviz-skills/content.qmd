@@ -7,6 +7,8 @@ categories: [Data Visualization, Learning, Community]
 image: preview_image.png
 ---
 
+<br>
+
 Hi there! Welcome to my very first blog post — I’m thrilled you decided to click!
 
 For this first post, I decided to write about something that has helped me *a lot* since I started digging into the data visualization world: the amazing data viz challenges created by the **#DataFam** community.
