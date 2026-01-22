@@ -42,7 +42,7 @@ format:
     
 comments:
   giscus:
-    repo: a-charnobay/a-charnobay.github.io
+    repo: a-charnobay/acharnobay-website-giscus
 
 editor: visual
 

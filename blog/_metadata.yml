@@ -7,3 +7,20 @@ freeze: auto
 
 # enable banner style title blocks ----
 title-block-banner: false
+
+# giscus comments https://giscus.app/
+
+comments:
+  giscus:
+    repo: a-charnobay/acharnobay-website-giscus
+    repo-id: R_kgDOQ_MBlA
+    category: Announcements
+    category-id: DIC_kwDOQ_MBlM4C1So-
+    mapping: pathname
+    reactions-enabled: true
+    loading: lazy
+    input-position: top
+    theme: light
+    language: en
+
+
