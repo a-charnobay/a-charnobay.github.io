@@ -38,7 +38,7 @@ Below are some of the most popular and beginner-friendly data visualization chal
 
 ### TidyTuesday
 
-**About:** A data visualization challenge organized by the [Data Science Learning Community](https://dslc.io). Each Tuesday, a new dataset is released, inviting participants to explore, analyze, and visualize the data in their own way. **Period:** Weekly, year round\
+**About:** A data visualization challenge organized by the [Data Science Learning Community](https://dslc.io). Each Tuesday, a new dataset is released, inviting participants to explore, analyze, and visualize the data in their own way.\ **Period:** Weekly, year round\
 **Focus Area:** Data wrangling, analysis, visualization\
 **Share Your Work:** `#TidyTuesday`\
 **Challenge Page:** [TidyTuesday GitHub Repository](https://github.com/rfordatascience/tidytuesday)

@@ -1,6 +1,6 @@
 ---
 title: "Academic Research"
-description: "Publications (articles, book chapters, educational materials)."
+description: "Publications (articles, book chapters, educational material)."
 categories: [Statistics, Agriculture, Soil Science]
 order: 2
 image: preview_image.png
