@@ -14,7 +14,7 @@ comments:
   giscus:
     repo: a-charnobay/acharnobay-website-giscus
     repo-id: R_kgDOQ_MBlA
-    category: Announcements
+    category: General
     category-id: DIC_kwDOQ_MBlM4C1So-
     mapping: pathname
     reactions-enabled: true
