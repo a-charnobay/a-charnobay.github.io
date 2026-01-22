@@ -102,7 +102,7 @@ You can start by posting your visualizations on social media using challenge-spe
 
 It’s also worth organizing your projects on **GitHub**. Creating a repository with your code, data source, and a short explanation of your process turns each challenge into an open portfolio. It shows not just the final chart, but how you got there.
 
-[![How I organize my challenge submissions to TidyTuesday on a GitHub repository](my_github_tt_repo.png){fig-cap-align="center" fig-align="center" width="45cm"}](https://github.com/a-charnobay/tidytuesday)
+[![How I organize my TidyTuesday challenge submissions in a GitHub repository](my_github_tt_repo.png){fig-cap-align="center" fig-align="center" width="45cm"}](https://github.com/a-charnobay/tidytuesday)
 
 <br>
 
