@@ -1,0 +1,30 @@
+---
+title: "Data visualization"
+description: "Some of the visualizations created for data community challenges."
+categories: [Data visualization, Community, Learning]
+order: 1
+image: preview_image.png
+comments: false
+---
+
+# Tidy Tuesday
+
+------------------------------------------------------------------------
+
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday) is a weekly data challenge built for the R community. Each week a new dataset is released inviting participants to explore, analyze, and visualize the data.
+
+Below, you’ll find a selection of my TidyTuesday contributions. All visualizations and the code used to generate them are available on [GitHub](https://github.com/a-charnobay/tidytuesday/tree/main).
+
+## 2026
+
+[![](images/apod_nasa.png){fig-align="center"}](https://github.com/a-charnobay/tidytuesday/tree/main/2026/2026_Week_03)
+
+[![](images/languages_of_africa.png){fig-align="center"}](https://github.com/a-charnobay/tidytuesday/tree/main/2026/2026_Week_02)
+
+## 2025
+
+[![](images/euroleague_basketball.png){fig-align="center"}](https://github.com/a-charnobay/tidytuesday/tree/main/2025/2025_Week_40)
+
+[![](images/viewing_data_netflix_dark_bg.png){fig-align="center"}](https://github.com/a-charnobay/tidytuesday/tree/main/2025/2025_Week_30)
+
+[![](images/MTA_art_catalog_tooltip.png){fig-align="center"}](https://github.com/a-charnobay/tidytuesday/tree/main/2025/2025_Week_29)

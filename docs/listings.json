@@ -4,5 +4,12 @@
     "items": [
       "/blog/practicing-dataviz-skills/content.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/TidyTuesday/content.html",
+      "/projects/Research/content.html"
+    ]
   }
 ]

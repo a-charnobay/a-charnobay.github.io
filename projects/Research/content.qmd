@@ -1,0 +1,16 @@
+---
+title: "Academic Research"
+description: "Publications (articles, book chapters, educational materials)."
+categories: [Statistics, Agriculture, Soil Science]
+order: 2
+image: preview_image.png
+comments: false
+---
+
+# Published Papers
+
+**Soil microbial attributes and soybean yield response to off-season crop diversification in an Oxisol in Southern Brazil.**<br> **A.C.R. Charnobay**, A.B.L. Rondina, A.A. Balbinot Junior, M. Hungria, M.A. Nogueira, 2025. doi: <https://doi.org/10.1016/j.apsoil.2025.106040>.<br> Code: <https://github.com/a-charnobay/Charnobay-et-al-2025-scripts>.
+
+# PhD Thesis
+
+**Microbial attributes of soil health in diversified soybean production systems*.*** <br>**A.C.R. Charnobay**. *PhD Thesis*. State University of Londrina. 2024.<br>[Link](https://repositorio.uel.br/srv-c0003-s01/api/core/bitstreams/7216acf3-053e-4265-aaca-ee114f9ac0b3/content)

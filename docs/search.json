@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aghata Charnobay",
-    "section": "",
-    "text": "Hi there! I’m Aghata, a biostatistician with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights."
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to my blog! I am very happy you are here!\nThis is a space to talk about data - what I’m learning, what I’m working on, and all the cool tips, tutorials, and curiosities I come across. It’s also a way to document my learning journey, practice writing skills, and share what I find with other learners.\nI hope you find something helpful here 💡.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to practice your data visualization skills\n\n\n\n\n\nWant to work on your data viz skills? Let’s explore some of the data community challenges that make learning hands-on and fun!\n\n\n\n\n\nOct 20, 2025\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my blog! This is a space to talk about data — what I’m learning, what I’m working on, and all the cool tips, tutorials, and curiosities I come across. It’s also a way to document my learning journey, practice writing skills, and share it with other learners.\nHope you enjoy the read ☕\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Practice Data Visualization with Community Challenges\n\n\n\nData Visualization\n\nLearning\n\nCommunity\n\n\n\nWant to improve your data visualization skills? This post explores beginner-friendly data community challenges that make learning hands-on and fun!\n\n\n\n\n\nJan 22, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/practicing-dataviz-skills/content.html",
+    "href": "blog/practicing-dataviz-skills/content.html",
+    "title": "How to Practice Data Visualization with Community Challenges",
+    "section": "",
+    "text": "Hi there! Welcome to my very first blog post — I’m thrilled you decided to click!\nFor this first post, I decided to write about something that has helped me a lot since I started digging into the data visualization world: the amazing data viz challenges created by the #DataFam community.\nHonestly, it took me way too long to realize these challenges even existed! So I’m hoping this post can make your life a little easier 😊."
+  },
+  {
+    "objectID": "blog/practicing-dataviz-skills/content.html#what-are-data-visualization-challenges",
+    "href": "blog/practicing-dataviz-skills/content.html#what-are-data-visualization-challenges",
+    "title": "How to Practice Data Visualization with Community Challenges",
+    "section": "What Are Data Visualization Challenges?",
+    "text": "What Are Data Visualization Challenges?\nData visualization challenges are organized, community-driven initiatives where participants are given a dataset and/or a specific topic or theme to explore. The goal is to practice and improve skills by creating a unique chart, application, or dashboard from the same data and sharing the results online."
+  },
+  {
+    "objectID": "blog/practicing-dataviz-skills/content.html#why-should-you-engage",
+    "href": "blog/practicing-dataviz-skills/content.html#why-should-you-engage",
+    "title": "How to Practice Data Visualization with Community Challenges",
+    "section": "Why Should You Engage?",
+    "text": "Why Should You Engage?\nThese challenges are our best friends for practice. They offer a structured, no-pressure way to sharpen three core skills:\n\nData Manipulation: Cleaning and preparing raw data\n\nExploratory Data Analysis (EDA): Finding the story within the data\n\nVisualization: Bringing that story to life with effective design\n\nBut for me, the real magic lies in the community aspect. Engaging in these challenges means you get to learn from others in two powerful ways:\n\nInspiration: Seeing the diverse and creative ways people approach the same dataset\n\nEducation: Studying their code and techniques to elevate your own skills\n\nSo now that you know what data viz challenges are and why they’re so valuable, the next question is: where do you find them?\nBelow are some of the most popular and beginner-friendly data visualization challenges created by the data community."
+  },
+  {
+    "objectID": "blog/practicing-dataviz-skills/content.html#popular-dataviz-challenges",
+    "href": "blog/practicing-dataviz-skills/content.html#popular-dataviz-challenges",
+    "title": "How to Practice Data Visualization with Community Challenges",
+    "section": "Popular DataViz Challenges",
+    "text": "Popular DataViz Challenges\n\nTidyTuesday\nAbout: A data visualization challenge organized by the Data Science Learning Community. Each Tuesday, a new dataset is released, inviting participants to explore, analyze, and visualize the data in their own way. Period: Weekly, year round\nFocus Area: Data wrangling, analysis, visualization\nShare Your Work: #TidyTuesday\nChallenge Page: TidyTuesday GitHub Repository\n\n\n\n30DayChartChallenge\nAbout: A month-long data visualization challenge. Participants create one visualization per day based on a predefined theme (such as comparisons, distributions, or part-to-whole relationships), choosing their own data and tools\nPeriod: April (month-long)\nFocus Area: Visualization design, creativity, chart types, storytelling\nShare Your Work: #30DayChartChallenge\nChallenge Page: 30 Day Chart Challenge GitHub Repository\n\n\n\n30DayMapChallenge\nAbout: A month-long cartography and mapping challenge. Participants create one map per day based on a predefined theme (such as spatial patterns, distributions, or geographic storytelling), using their own datasets and tools\nPeriod: November (month-long)\nFocus Area: Mapping, spatial visualization, creativity, storytelling\nShare Your Work: #30DayMapChallenge\nChallenge Page: 30 Day Map Challenge GitHub Repository\n\n\n\nMakeoverMonday\nAbout: A weekly data visualization challenge where participants take an existing chart and redesign it to improve clarity, aesthetics, or insight. Each Monday a new challenge is released and participants are encouraged to explore data storytelling and chart improvement techniques\nPeriod: Weekly year round\nFocus Area: Data analysis, visualization improvement, storytelling, design critique\nShare Your Work: #MakeoverMonday\nChallenge Page: MakeoverMonday Website\n\n\n\nSportsVizSunday\nAbout: A challenge centered around sports data visualization. Participants create charts, infographics, or dashboards using sports-related datasets to explore trends, statistics, and storytelling opportunities in sports\nPeriod: Weekly (typically on Sundays)\nFocus Area: Sports analytics, visualization, storytelling, trend analysis\nShare Your Work: #SportsVizSunday\nChallenge Page: SportsVizSunday Website\n\n\n\nGameNightViz\nAbout: Data viz challenge on board games, video games, and gaming-related data. Each edition provides datasets at multiple skill levels and emphasizes both data preparation and visualization\nPeriod: Monthly (one theme per month)\nFocus Area: Gaming data, creativity, visualization, storytelling\nShare Your Work: #GameNightViz\nChallenge Page: GameNightViz Website"
+  },
+  {
+    "objectID": "blog/practicing-dataviz-skills/content.html#making-your-practice-visible",
+    "href": "blog/practicing-dataviz-skills/content.html#making-your-practice-visible",
+    "title": "How to Practice Data Visualization with Community Challenges",
+    "section": "Making Your Practice Visible",
+    "text": "Making Your Practice Visible\nPracticing data visualization doesn’t have to be a solo journey. Sharing your work is a powerful way to learn, connect, and grow.\nYou can start by posting your visualizations on social media using challenge-specific hashtags like #TidyTuesday, #MakeoverMonday, or #DataViz. Platforms like LinkedIn and X (Twitter) are full of people who enjoy seeing how others explore the same data and often give thoughtful feedback.\nIt’s also worth organizing your projects on GitHub. Creating a repository with your code, data source, and a short explanation of your process turns each challenge into an open portfolio. It shows not just the final chart, but how you got there.\n\n\n\n\n\n\n\nHow I organize my challenge submissions to TidyTuesday on a GitHub repository\n\n\n\nIt might feel intimidating at first, but the data community is genuinely kind and supportive. Sharing your work is less about being perfect and more about learning together."
+  },
+  {
+    "objectID": "blog/practicing-dataviz-skills/content.html#final-thoughts",
+    "href": "blog/practicing-dataviz-skills/content.html#final-thoughts",
+    "title": "How to Practice Data Visualization with Community Challenges",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nIf you’re just getting started with data visualization, these challenges are a fun and low-pressure way to practice consistently, try new techniques, and improve your data skills. Each challenge gives you a chance to learn from others, explore different datasets and tools, and get creative.\nThe best part is that there are challenges for every schedule and interest! You can join a weekly, monthly, or themed challenge, or bring your own data and practice analysis in the area you care about. Most importantly, it’s about community! Sharing your work, seeing what others create, and learning together."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of my data visualization and research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData visualization\n\n\n\nData visualization\n\nCommunity\n\nLearning\n\n\n\nSome of the visualizations created for data community challenges.\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Research\n\n\n\nStatistics\n\nAgriculture\n\nSoil Science\n\n\n\nPublications (articles, book chapters, educational materials).\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/Research/content.html",
+    "href": "projects/Research/content.html",
+    "title": "Academic Research",
+    "section": "",
+    "text": "Published Papers\nSoil microbial attributes and soybean yield response to off-season crop diversification in an Oxisol in Southern Brazil. A.C.R. Charnobay, A.B.L. Rondina, A.A. Balbinot Junior, M. Hungria, M.A. Nogueira, 2025. doi: https://doi.org/10.1016/j.apsoil.2025.106040. Code: https://github.com/a-charnobay/Charnobay-et-al-2025-scripts.\n\n\nPhD Thesis\nMicrobial attributes of soil health in diversified soybean production systems. A.C.R. Charnobay. PhD Thesis. State University of Londrina. 2024.Link"
+  },
+  {
+    "objectID": "projects/TidyTuesday/content.html",
+    "href": "projects/TidyTuesday/content.html",
+    "title": "Data visualization",
+    "section": "",
+    "text": "TidyTuesday is a weekly data challenge built for the R community. Each week a new dataset is released inviting participants to explore, analyze, and visualize the data.\nBelow, you’ll find a selection of my TidyTuesday contributions. All visualizations and the code used to generate them are available on GitHub."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aghata Charnobay",
+    "section": "",
+    "text": "Hi there! I’m Aghata, a data analyst with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights."
   }
 ]

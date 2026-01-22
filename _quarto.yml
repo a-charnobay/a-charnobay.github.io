@@ -10,13 +10,16 @@ website:
     right:
       - href: index.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
       - href: blog.qmd
         text: Blog
+        
         
   page-footer:
     background: light
     border: true
-    left:  © 2025 Aghata Charnobay
+    left:  © 2026 Aghata Charnobay
     center: 
     - icon: linkedin
       href: https://www.linkedin.com/in/aghata-charnobay/
@@ -31,8 +34,9 @@ website:
 
 format:
   html:
-    theme: [default, styles.scss]
+    theme: [theme.scss]
     toc: true
+    toc-depth: 3
     page-layout: article
     smooth-scroll: true
     

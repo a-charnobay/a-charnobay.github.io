@@ -9,18 +9,16 @@ listing:
   categories: true
   fields: 
     - title
+    - categories
     - description
     - date
     - image
-    - reading-time
   page-size: 5
 comments: false
 ---
 
-Welcome to my blog! I am very happy you are here!
+Welcome to my blog! This is a space to talk about data — what I’m learning, what I’m working on, and all the cool tips, tutorials, and curiosities I come across. It's also a way to document my learning journey, practice writing skills, and share it with other learners.
 
-This is a space to talk about data - what I’m learning, what I’m working on, and all the cool tips, tutorials, and curiosities I come across. It's also a way to document my learning journey, practice writing skills, and share what I find with other learners.
-
-I hope you find something helpful here 💡.
+Hope you enjoy the read ☕
 
 ------------------------------------------------------------------------

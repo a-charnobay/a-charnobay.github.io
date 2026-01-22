@@ -1,0 +1,169 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;600;700&family=Domine:wght@400;700;900&family=Nunito:wght@400;500;600;700&family=Fira+Mono&display=swap');
+
+$font-family-sans-serif: 'Commissioner', sans-serif;
+$font-family-body: 'Nunito', sans-serif;
+$font-family-monospace:   'Fira Mono', monospace;
+
+// Color pallete
+$green:         #033311;
+$green-light:   #C9DBCB;
+$green-dark:    #01260A;
+$orange:        #D26A44;
+$orange-light:  #FCECD7;
+$orange-dark:   #B7532A;
+$brown-dark:    #3E2723;
+$brown-warm:    #8D6E63; 
+$tan-light:     #F5F5DC;
+$off-white:     #F8F9FA;
+ 
+
+// Functional Mapping
+$primary:       $green;
+$secondary:     $orange;
+$light:         #ffffff;
+$white:         #ffffff;
+$dark:          #191919;
+$grey:          #333333;
+$grey-ink: #373A3E;
+
+
+$link-color:              $secondary;
+$code-color:              $secondary;
+$code-bg:                 $orange-light;
+$body-color: $grey-ink;
+
+
+/*-- scss:rules --*/
+
+// Global elements style 
+body {
+  font-family: $font-family-body !important;
+  font-size: 1.0em;
+  font-weight: 400;
+  background-color: $off-white;
+  color: $body-color;
+  line-height: 1.5;
+}
+
+// Global Headings
+h1, h2, h3, h4, h5, h6, 
+.listing-category-title, 
+#title-block-header .title {
+  font-family: $font-family-sans-serif !important;
+  color: $primary !important;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+}
+
+// footer styling
+
+.nav-footer {
+  background-color: $off-white !important;
+}
+
+#title-block-header .title {
+  margin-top: 0 !important; 
+}
+
+h1 { font-size: 2.1rem; margin-top: 0.5em; }
+h2 { font-size: 1.5rem; margin-top: 1.2em; }
+h3 { font-size: 1.3rem; margin-top: 1.2em; }
+
+// Styling cover images in both Blog and Project listings
+
+.thumbnail img, 
+.listing-item img, 
+.quarto-grid-item img {
+  border: 1.5px solid $primary !important; 
+  transition: transform 0.2s ease-in-out;
+}
+
+// Title color for listing posts
+.listing-title, 
+.listing-title a,
+.listing-name {
+  color: $primary !important;
+  font-weight: 700 !important;
+  margin-bottom: 0.5rem !important;
+  text-decoration: none;
+}
+
+// Grid background fix
+.quarto-grid-item {
+  background-color: $off-white !important;
+  box-shadow: none !important;
+}
+
+// Navigation and links
+.navbar {
+  background-color: $primary !important;
+  a, .navbar-brand {
+    color: $white !important;
+    font-family: $font-family-sans-serif;
+    &:hover { color: $green-light !important; text-decoration: none; }
+  }
+}
+
+a {
+  color: $secondary;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+  &:hover { text-decoration: underline; }
+}
+
+//  Buttons, Categories & Listings ---
+
+.quarto-listing .listing-categories .listing-category,
+.quarto-category,
+.btn,
+div.quarto-post .listing-categories .listing-category {
+  opacity: 0.8 !important;
+  display: inline-block; // Ensures padding and borders render correctly
+  color: $secondary !important;
+  border: 1px solid $secondary !important;
+  border-radius: 6px;
+  font-family: $font-family-sans-serif;
+  padding: 2px 8px; // Added standard padding for consistency
+  margin-bottom: 4px; // Prevents tags from touching
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $secondary !important;
+    color: $white !important;
+  }
+}
+
+// Banner styles
+.quarto-title-block {
+  margin-top: 0;
+  .quarto-title-banner {
+    background-color: $light !important;
+    h1, h2, p { color: $primary !important; }
+  }
+}
+
+mark, .highlight {
+  background-color: $secondary;
+  color: $secondary;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+//images
+
+.img-float-right {
+  float: right;
+  padding-left: 1em;
+}
+
+figure figcaption {
+  text-align: center;
+  margin-bottom: 1;
+  line-height: 0;
+}
+

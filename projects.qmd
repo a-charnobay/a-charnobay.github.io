@@ -1,0 +1,18 @@
+---
+title: "Projects"
+format: html
+listing: 
+  contents: projects 
+  type: grid
+  sort: "order" 
+  categories: false
+  fields: 
+    - title
+    - categories
+    - description
+    - image
+  page-size: 4
+comments: false
+---
+
+A selection of my data visualization and research projects.

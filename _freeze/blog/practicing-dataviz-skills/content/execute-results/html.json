@@ -1,0 +1,15 @@
+{
+  "hash": "46ff87274d57974734496896d40f4deb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"How to practice your data visualization skills\"\ndescription: \"Want to work on your data viz skills? Let’s explore some of the data community challenges that make learning hands-on and fun!\"\nauthor: \"Aghata Charnobay\"\ndate: \"October 20, 2025\"\ncategories: [Data visualization, Community]\nimage: preview_image.png\ndraft: true\n---\n\nHi there! Welcome to my very first blog post - I'm thrilled you decided to click!\n\nFor my first post, I want to jump into something super valuable that helped me when I was starting out: the amazing **data visualization challenges** created by the online \"data fam\" community.\n\nHonestly, it took me *way* too long to realize these things existed! So, I’m hoping this post can make your life a little easier.\n\n## What Are Data Viz Challenges?\n\nData visualization challenges are organized, community initiatives where participants are given a dataset and/or a specific topic or theme to explore. The goal is for everyone to practice their skills by creating their own unique chart, application, or dashboard from that data and then sharing it online.\n\n## Why Should You Engage?\n\nThese challenges are your best friend for practice. They offer a structured, no-pressure way to sharpen three core skills:\n\n-   **Data Manipulation:** Cleaning and preparing raw data.\n\n-   **Exploratory Data Analysis (EDA):** Finding the story within the data.\n\n-   **Visualization:** Bringing that story to life with effective design.\n\nBut the real magic is the community aspect! Engaging in these challenges means you get to learn from others in two powerful ways:\n\n-   **Inspiration:** Seeing the diverse and creative ways people approach the same dataset.\n\n-   **Education:** Studying their **code** and **techniques** to elevate your own skills.\n\n## Popular DataViz Challenges\n\nReady to see what's out there? Let's take a look at some of the most popular data viz challenges you can start tackling right away:\n\n### TidyTuesday\n\n`tidy tuesday`\\`\n\n[my tidytuesday repo](https://github.com/a-charnobay/tidytuesday/tree/main/2025)\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidytuesdayR)\ntuesdata <- tt_load(2025, week = 28)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\n---- Compiling #TidyTuesday Information for 2025-07-15 ----\n--- There is 1 file available ---\n\n\n── Downloading files ───────────────────────────────────────────────────────────\n\n  1 of 1: \"bl_funding.csv\"\n```\n\n\n:::\n\n```{.r .cell-code}\nbl_funding <- tuesdata$bl_funding\n```\n:::\n\n\n### 30DayChartChallenge\n\n### 30DayMapChallenge\n\n### MakeOverMonday\n\n### sportsvizsunday\n\n### gamesnightviz\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
