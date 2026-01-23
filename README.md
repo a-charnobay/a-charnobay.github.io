@@ -1,6 +1,6 @@
 ## Description
 
-Hi there, and welcome to the repository of my personal website!
+Hi there, and welcome to the repository of my personal website 👋
 
 This website serves as both my **portfolio** and a place where I share my **learning journey**, projects, and content related to **data science and data visualization**.
 
