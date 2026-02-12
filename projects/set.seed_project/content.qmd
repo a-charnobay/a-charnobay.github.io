@@ -1,0 +1,22 @@
+---
+title: "set.seed() 🇧🇷"
+description: "An educational project on reproducible and code-driven science in agricultural and environmental research, sharing Portuguese-language content on data management, applied statistics, R programming, and data visualization."
+categories: [Reproducible Research, Data Analysis, Statistics, Agriculture]
+order: 3
+image: preview_image.png
+comments: false
+---
+
+## **About**
+
+set.seed() started from the idea that good science is reproducible science.
+
+In agricultural and environmental research, we work with experiments, data, and decisions that matter. Yet many steps in research and data analysis are still not well documented in a clear or reproducible way.
+
+In R, the set.seed() function ensures that random results can be reproduced. Here, it represents something bigger: an approach to Ag science that is code-driven, transparent, and reliable.
+
+set.seed() is an Instagram-based educational project created to share ideas and content around reproducible science, statistics, programming, and data visualization applied to agriculture and environmental research — especially for graduate students and researchers.
+
+[<i class="bi bi-instagram"></i> set.seed()](https://instagram.com/setseed.project){.btn .btn-outline-primary}
+
+

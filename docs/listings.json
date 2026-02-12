@@ -9,7 +9,8 @@
     "listing": "/projects.html",
     "items": [
       "/projects/TidyTuesday/content.html",
-      "/projects/Research/content.html"
+      "/projects/Research/content.html",
+      "/projects/set.seed_project/content.html"
     ]
   }
 ]

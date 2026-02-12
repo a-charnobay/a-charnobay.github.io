@@ -53,7 +53,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A selection of my data visualization and research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData visualization\n\n\n\nData visualization\n\nCommunity\n\nLearning\n\n\n\nSome of the visualizations created for data community challenges.\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Research\n\n\n\nStatistics\n\nAgriculture\n\nSoil Science\n\n\n\nPublications (articles, book chapters, educational material).\n\n\n\n\n\nNo matching items"
+    "text": "A selection of my data visualization and research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData visualization\n\n\n\nData visualization\n\nCommunity\n\nLearning\n\n\n\nSome of the visualizations created for data community challenges.\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Research\n\n\n\nStatistics\n\nAgriculture\n\nSoil Science\n\n\n\nPublications (articles, book chapters, educational material).\n\n\n\n\n\n\n\n\n\n\n\n\nset.seed() 🇧🇷\n\n\n\nReproducible Research\n\nData Analysis\n\nStatistics\n\nAgriculture\n\n\n\nAn educational project on reproducible and code-driven science in agricultural and environmental research, sharing Portuguese-language content on data management, applied…\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/Research/content.html",
@@ -75,5 +75,19 @@
     "title": "Aghata Charnobay",
     "section": "",
     "text": "Hi there! I’m Aghata, a data analyst with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights."
+  },
+  {
+    "objectID": "projects/set.seed_project/content.html",
+    "href": "projects/set.seed_project/content.html",
+    "title": "set.seed() 🇧🇷",
+    "section": "",
+    "text": "set.seed() started from the idea that good science is reproducible science.\nIn agricultural and environmental research, we work with experiments, data, and decisions that matter. Yet many steps in research and data analysis are still not well documented in a clear or reproducible way.\nIn R, the set.seed() function ensures that random results can be reproduced. Here, it represents something bigger: an approach to Ag science that is code-driven, transparent, and reliable.\nset.seed() is an Instagram-based educational project created to share ideas and content around reproducible science, statistics, programming, and data visualization applied to agriculture and environmental research — especially for graduate students and researchers.\n set.seed()"
+  },
+  {
+    "objectID": "projects/set.seed_project/content.html#about",
+    "href": "projects/set.seed_project/content.html#about",
+    "title": "set.seed() 🇧🇷",
+    "section": "",
+    "text": "set.seed() started from the idea that good science is reproducible science.\nIn agricultural and environmental research, we work with experiments, data, and decisions that matter. Yet many steps in research and data analysis are still not well documented in a clear or reproducible way.\nIn R, the set.seed() function ensures that random results can be reproduced. Here, it represents something bigger: an approach to Ag science that is code-driven, transparent, and reliable.\nset.seed() is an Instagram-based educational project created to share ideas and content around reproducible science, statistics, programming, and data visualization applied to agriculture and environmental research — especially for graduate students and researchers.\n set.seed()"
   }
 ]
