@@ -63,20 +63,6 @@
     "text": "Published Papers\nSoil microbial attributes and soybean yield response to off-season crop diversification in an Oxisol in Southern Brazil. A.C.R. Charnobay, A.B.L. Rondina, A.A. Balbinot Junior, M. Hungria, M.A. Nogueira, 2025. doi: https://doi.org/10.1016/j.apsoil.2025.106040. Code: https://github.com/a-charnobay/Charnobay-et-al-2025-scripts.\n\n\nPhD Thesis\nMicrobial attributes of soil health in diversified soybean production systems. A.C.R. Charnobay. PhD Thesis. State University of Londrina. 2024.Link"
   },
   {
-    "objectID": "projects/TidyTuesday/content.html",
-    "href": "projects/TidyTuesday/content.html",
-    "title": "Data visualization",
-    "section": "",
-    "text": "TidyTuesday is a weekly data challenge built for the R community. Each week a new dataset is released inviting participants to explore, analyze, and visualize the data.\nBelow, you’ll find a selection of my TidyTuesday contributions. All visualizations and the code used to generate them are available on GitHub."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aghata Charnobay",
-    "section": "",
-    "text": "Hi there! I’m Aghata, a data analyst with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights."
-  },
-  {
     "objectID": "projects/set.seed_project/content.html",
     "href": "projects/set.seed_project/content.html",
     "title": "set.seed() 🇧🇷",
@@ -89,5 +75,19 @@
     "title": "set.seed() 🇧🇷",
     "section": "",
     "text": "set.seed() started from the idea that good science is reproducible science.\nIn agricultural and environmental research, we work with experiments, data, and decisions that matter. Yet many steps in research and data analysis are still not well documented in a clear or reproducible way.\nIn R, the set.seed() function ensures that random results can be reproduced. Here, it represents something bigger: an approach to Ag science that is code-driven, transparent, and reliable.\nset.seed() is an Instagram-based educational project created to share ideas and content around reproducible science, statistics, programming, and data visualization applied to agriculture and environmental research — especially for graduate students and researchers.\n set.seed()"
+  },
+  {
+    "objectID": "projects/TidyTuesday/content.html",
+    "href": "projects/TidyTuesday/content.html",
+    "title": "Data visualization",
+    "section": "",
+    "text": "TidyTuesday is a weekly data challenge built for the R community. Each week a new dataset is released inviting participants to explore, analyze, and visualize the data.\nBelow, you’ll find a selection of my TidyTuesday contributions. All visualizations and the code used to generate them are available on GitHub."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aghata Charnobay",
+    "section": "",
+    "text": "Hi there! I’m Aghata, a data analyst with a background in soil science and a passion for data science and visualization. I work at the intersection of research and data analytics, using statistical methods, R programming, and visual storytelling to turn agricultural and sustainability data into actionable insights."
   }
 ]

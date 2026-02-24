@@ -17,6 +17,4 @@ In R, the set.seed() function ensures that random results can be reproduced. Her
 
 set.seed() is an Instagram-based educational project created to share ideas and content around reproducible science, statistics, programming, and data visualization applied to agriculture and environmental research — especially for graduate students and researchers.
 
-[<i class="bi bi-instagram"></i> set.seed()](https://instagram.com/setseed.project){.btn .btn-outline-primary}
-
-
+[<i class="bi bi-instagram"></i> set.seed()](https://instagram.com/set.seed_){.btn .btn-outline-primary}
